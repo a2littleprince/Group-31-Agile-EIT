@@ -1,6 +1,4 @@
 This is a demo website created in Agile project. [ Yining Chen ]  
 
 
-on master
-
-
+just cloned. trying to push.
